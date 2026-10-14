@@ -1,0 +1,833 @@
+{
+  "aciklama": "Orijinal Excel dosyaları kataloğu. Firebase ders belge ID eşleştirmesi ayrıca yapılmalıdır.",
+  "donem": "2026_2027",
+  "github_depo": "https://github.com/cezbilisim-png/ogretmen-excel",
+  "dosyalar": [
+    {
+      "id": "excel_001",
+      "dosya": "2026-2027 11- 12.SINIF MÜZİK DERSİ TASLAK YILLIK PLAN..xlsx",
+      "sayfalar": [
+        "MÜZİK 11.SINIF",
+        "MÜZİK 12. SINIF"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027%2011-%2012.SINIF%20M%C3%9CZ%C4%B0K%20DERS%C4%B0%20TASLAK%20YILLIK%20PLAN..xlsx"
+    },
+    {
+      "id": "excel_002",
+      "dosya": "2026-2027 11Temel Matematik ve 12 Temel Düzey Matematik Yıllık Planları.xlsx",
+      "sayfalar": [
+        "11. SINIF",
+        "12. SINIF(TD)"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027%2011Temel%20Matematik%20ve%2012%20Temel%20D%C3%BCzey%20Matematik%20Y%C4%B1ll%C4%B1k%20Planlar%C4%B1.xlsx"
+    },
+    {
+      "id": "excel_003",
+      "dosya": "2026-2027 ANADOLU LİSESİ  SOSYOLOJİ DERSİ SINIF TASLAK YILLIK PLAN.xlsx",
+      "sayfalar": [
+        "11. SINIF"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027%20ANADOLU%20L%C4%B0SES%C4%B0%20%20SOSYOLOJ%C4%B0%20DERS%C4%B0%20SINIF%20TASLAK%20YILLIK%20PLAN.xlsx"
+    },
+    {
+      "id": "excel_004",
+      "dosya": "2026-2027 ANADOLU LİSESİ 9,10,11, 12. SINIF TASLAK YILLIK PLAN-KİMYA.xlsx",
+      "sayfalar": [
+        "9. SINIF",
+        "10. SINIF",
+        "11. SINIF",
+        "12. SINIF"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027%20ANADOLU%20L%C4%B0SES%C4%B0%209%2C10%2C11%2C%2012.%20SINIF%20TASLAK%20YILLIK%20PLAN-K%C4%B0MYA.xlsx"
+    },
+    {
+      "id": "excel_005",
+      "dosya": "2026-2027 ANADOLU LİSESİ FELSEFE 10,11. SINIF TASLAK YILLIK PLAN (1) - Kopya.xlsx",
+      "sayfalar": [
+        "10. SINIF",
+        "11. SINIF"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027%20ANADOLU%20L%C4%B0SES%C4%B0%20FELSEFE%2010%2C11.%20SINIF%20TASLAK%20YILLIK%20PLAN%20%281%29%20-%20Kopya.xlsx"
+    },
+    {
+      "id": "excel_006",
+      "dosya": "2026-2027 ANADOLU LİSESİ MANTIK DERSİ TASLAK YILLIK PLAN - Kopya.xlsx",
+      "sayfalar": [
+        "MANTIK"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027%20ANADOLU%20L%C4%B0SES%C4%B0%20MANTIK%20DERS%C4%B0%20TASLAK%20YILLIK%20PLAN%20-%20Kopya.xlsx"
+    },
+    {
+      "id": "excel_007",
+      "dosya": "2026-2027 ANADOLU LİSESİ PSİOKOLOJİ DERSİ TASLAK YILLIK PLAN (3) - Kopya - Kopya.xlsx",
+      "sayfalar": [
+        "Psikoloji"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027%20ANADOLU%20L%C4%B0SES%C4%B0%20PS%C4%B0OKOLOJ%C4%B0%20DERS%C4%B0%20TASLAK%20YILLIK%20PLAN%20%283%29%20-%20Kopya%20-%20Kopya.xlsx"
+    },
+    {
+      "id": "excel_008",
+      "dosya": "2026-2027 FEN BİLİMLER LİSESİ FELSEFE 10,11. SINIF TASLAK YILLIK PLAN.xlsx",
+      "sayfalar": [
+        "10. SINIF",
+        "11. SINIF"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027%20FEN%20B%C4%B0L%C4%B0MLER%20L%C4%B0SES%C4%B0%20FELSEFE%2010%2C11.%20SINIF%20TASLAK%20YILLIK%20PLAN.xlsx"
+    },
+    {
+      "id": "excel_009",
+      "dosya": "2026-2027 FEN LİSESİ 9,10,11, 12. SINIF TASLAK YILLIK PLAN-KİMYA.xlsx",
+      "sayfalar": [
+        "9. SINIF",
+        "10. SINIF",
+        "11. SINIF",
+        "12. SINIF"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027%20FEN%20L%C4%B0SES%C4%B0%209%2C10%2C11%2C%2012.%20SINIF%20TASLAK%20YILLIK%20PLAN-K%C4%B0MYA.xlsx"
+    },
+    {
+      "id": "excel_010",
+      "dosya": "2026-2027 FEN LİSESİ 9,10,11, 12. SINIF TASLAK YILLIK PLAN-TARİH.xlsx",
+      "sayfalar": [
+        "9. SINIF TARİH",
+        "10. SINIF TARİH",
+        "11. SINIF TARİH",
+        "12. SINIF T.C. İNKILAP TAR."
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027%20FEN%20L%C4%B0SES%C4%B0%209%2C10%2C11%2C%2012.%20SINIF%20TASLAK%20YILLIK%20PLAN-TAR%C4%B0H.xlsx"
+    },
+    {
+      "id": "excel_011",
+      "dosya": "2026-2027 GÖRSEL SANATLAR H,9,10,11,12. SINIF TASLAK YILLIK PLAN 260826.xlsx",
+      "sayfalar": [
+        "HAZIRLIK",
+        "9. SINIF",
+        "10. SINIF",
+        "11. SINIF",
+        "12. SINIF"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027%20G%C3%96RSEL%20SANATLAR%20H%2C9%2C10%2C11%2C12.%20SINIF%20TASLAK%20YILLIK%20PLAN%20260826.xlsx"
+    },
+    {
+      "id": "excel_012",
+      "dosya": "2026-2027 Hazırlık,9,10. SINIF MÜZİK DERSİ TASLAK YILLIK PLAN..xlsx",
+      "sayfalar": [
+        "HAZIRLIK SINIFI",
+        "9. SINIF",
+        "10. SINIF"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027%20Haz%C4%B1rl%C4%B1k%2C9%2C10.%20SINIF%20M%C3%9CZ%C4%B0K%20DERS%C4%B0%20TASLAK%20YILLIK%20PLAN..xlsx"
+    },
+    {
+      "id": "excel_013",
+      "dosya": "2026-2027 SOSYAL BİLİMLER LİSESİ  SOSYOLOJİ 1 DERSİ SINIF TASLAK YILLIK PLAN.xlsx",
+      "sayfalar": [
+        "11. SINIF"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027%20SOSYAL%20B%C4%B0L%C4%B0MLER%20L%C4%B0SES%C4%B0%20%20SOSYOLOJ%C4%B0%201%20DERS%C4%B0%20SINIF%20TASLAK%20YILLIK%20PLAN.xlsx"
+    },
+    {
+      "id": "excel_014",
+      "dosya": "2026-2027 SOSYAL BİLİMLER LİSESİ 9,10,11, 12. SINIF TASLAK YILLIK PLAN-KİMYA.xlsx",
+      "sayfalar": [
+        "9. SINIF",
+        "10. SINIF"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027%20SOSYAL%20B%C4%B0L%C4%B0MLER%20L%C4%B0SES%C4%B0%209%2C10%2C11%2C%2012.%20SINIF%20TASLAK%20YILLIK%20PLAN-K%C4%B0MYA.xlsx"
+    },
+    {
+      "id": "excel_015",
+      "dosya": "2026-2027 SOSYAL BİLİMLER LİSESİ FELSEFE 10,11. SINIF TASLAK YILLIK PLAN.xlsx",
+      "sayfalar": [
+        "10. SINIF",
+        "11. SINIF"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027%20SOSYAL%20B%C4%B0L%C4%B0MLER%20L%C4%B0SES%C4%B0%20FELSEFE%2010%2C11.%20SINIF%20TASLAK%20YILLIK%20PLAN.xlsx"
+    },
+    {
+      "id": "excel_016",
+      "dosya": "2026-2027 SOSYAL BİLİMLER LİSESİ MANTIK DERSİ TASLAK YILLIK PLAN.xlsx",
+      "sayfalar": [
+        "MANTIK"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027%20SOSYAL%20B%C4%B0L%C4%B0MLER%20L%C4%B0SES%C4%B0%20MANTIK%20DERS%C4%B0%20TASLAK%20YILLIK%20PLAN.xlsx"
+    },
+    {
+      "id": "excel_017",
+      "dosya": "2026-2027 SOSYAL BİLİMLER LİSESİ PSİOKOLOJİ DERSİ TASLAK YILLIK PLAN.xlsx",
+      "sayfalar": [
+        "Psikoloji"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027%20SOSYAL%20B%C4%B0L%C4%B0MLER%20L%C4%B0SES%C4%B0%20PS%C4%B0OKOLOJ%C4%B0%20DERS%C4%B0%20TASLAK%20YILLIK%20PLAN.xlsx"
+    },
+    {
+      "id": "excel_018",
+      "dosya": "2026-2027 Türkçe 8 Hecce Yayınları Çerçeve Yıllık Plan.xlsx",
+      "sayfalar": [
+        "Türkçe 8. Sınıf Hecce Yayınları"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027%20T%C3%BCrk%C3%A7e%208%20Hecce%20Yay%C4%B1nlar%C4%B1%20%C3%87er%C3%A7eve%20Y%C4%B1ll%C4%B1k%20Plan.xlsx"
+    },
+    {
+      "id": "excel_019",
+      "dosya": "2026-2027_aihl_TemelDiniBilgiler9_TYMM.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027_aihl_TemelDiniBilgiler9_TYMM.xlsx"
+    },
+    {
+      "id": "excel_020",
+      "dosya": "2026-2027_Arapca_10_aihl_yillik_cerceve_plan.xlsx",
+      "sayfalar": [
+        "2026 2027 ARAPCA 10"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027_Arapca_10_aihl_yillik_cerceve_plan.xlsx"
+    },
+    {
+      "id": "excel_021",
+      "dosya": "2026-2027_Arapca_5_iho_yillik_cerceve_plan.xlsx",
+      "sayfalar": [
+        "2026 2027 ARAPÇA 5"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027_Arapca_5_iho_yillik_cerceve_plan.xlsx"
+    },
+    {
+      "id": "excel_022",
+      "dosya": "2026-2027_Arapca_6_iho_yillik_cerceve_plan.xlsx",
+      "sayfalar": [
+        "2026 2027 ARAPÇA 6"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027_Arapca_6_iho_yillik_cerceve_plan.xlsx"
+    },
+    {
+      "id": "excel_023",
+      "dosya": "2026-2027_Arapca_9_aihl_yillik_cerceve_plan.xlsx",
+      "sayfalar": [
+        "2026 2027 ARAPCA 10"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027_Arapca_9_aihl_yillik_cerceve_plan.xlsx"
+    },
+    {
+      "id": "excel_024",
+      "dosya": "2026-2027_iho_arapca7_cerceve_yillik_plan.xlsx",
+      "sayfalar": [
+        "2025 2026"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027_iho_arapca7_cerceve_yillik_plan.xlsx"
+    },
+    {
+      "id": "excel_025",
+      "dosya": "2026-2027_iho_arapca_8_cerceve_yillik_plan.xlsx",
+      "sayfalar": [
+        "ARAPÇA 8"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027_iho_arapca_8_cerceve_yillik_plan.xlsx"
+    },
+    {
+      "id": "excel_026",
+      "dosya": "2026-2027_Mesleki_Arapca_11_aihl_yillik_cerceve_plan.xlsx",
+      "sayfalar": [
+        "2026 2027 ARAPCA 10"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027_Mesleki_Arapca_11_aihl_yillik_cerceve_plan.xlsx"
+    },
+    {
+      "id": "excel_027",
+      "dosya": "2026-2027_Mesleki_Arapca_12_aihl_yillik_cerceve_plan.xlsx",
+      "sayfalar": [
+        "2025 2026 Mesleki Arapça"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027_Mesleki_Arapca_12_aihl_yillik_cerceve_plan.xlsx"
+    },
+    {
+      "id": "excel_028",
+      "dosya": "2026-2027aihl_akaid11_TYMM.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027aihl_akaid11_TYMM.xlsx"
+    },
+    {
+      "id": "excel_029",
+      "dosya": "2026-2027aihl_dinlertarihi11.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027aihl_dinlertarihi11.xlsx"
+    },
+    {
+      "id": "excel_030",
+      "dosya": "2026-2027aihl_fikih10_TYMM.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027aihl_fikih10_TYMM.xlsx"
+    },
+    {
+      "id": "excel_031",
+      "dosya": "2026-2027aihl_hadis10_TYMM.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027aihl_hadis10_TYMM.xlsx"
+    },
+    {
+      "id": "excel_032",
+      "dosya": "2026-2027aihl_hitabet11_TYMM.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027aihl_hitabet11_TYMM.xlsx"
+    },
+    {
+      "id": "excel_033",
+      "dosya": "2026-2027aihl_islamkulturmedeniyeti12.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027aihl_islamkulturmedeniyeti12.xlsx"
+    },
+    {
+      "id": "excel_034",
+      "dosya": "2026-2027aihl_kelam12.xlsx",
+      "sayfalar": [
+        "ESKİ PROGRAM"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027aihl_kelam12.xlsx"
+    },
+    {
+      "id": "excel_035",
+      "dosya": "2026-2027aihl_kuran10.xlsx",
+      "sayfalar": [
+        "AİHL KURAN 10"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027aihl_kuran10.xlsx"
+    },
+    {
+      "id": "excel_036",
+      "dosya": "2026-2027aihl_kuran9_TYMM.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027aihl_kuran9_TYMM.xlsx"
+    },
+    {
+      "id": "excel_037",
+      "dosya": "2026-2027aihl_kuran_hazirlik_TYMM.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027aihl_kuran_hazirlik_TYMM.xlsx"
+    },
+    {
+      "id": "excel_038",
+      "dosya": "2026-2027aihl_siyer10_TYMM.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027aihl_siyer10_TYMM.xlsx"
+    },
+    {
+      "id": "excel_039",
+      "dosya": "2026-2027aihl_tefsir11_TYMM.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027aihl_tefsir11_TYMM.xlsx"
+    },
+    {
+      "id": "excel_040",
+      "dosya": "2026-2027dkab10_TYMM.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027dkab10_TYMM.xlsx"
+    },
+    {
+      "id": "excel_041",
+      "dosya": "2026-2027dkab11_TYMM.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027dkab11_TYMM.xlsx"
+    },
+    {
+      "id": "excel_042",
+      "dosya": "2026-2027dkab12.xlsx",
+      "sayfalar": [
+        "DKAB 12"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027dkab12.xlsx"
+    },
+    {
+      "id": "excel_043",
+      "dosya": "2026-2027dkab4.xlsx",
+      "sayfalar": [
+        "DKAB 4"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027dkab4.xlsx"
+    },
+    {
+      "id": "excel_044",
+      "dosya": "2026-2027dkab5_TYMM.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027dkab5_TYMM.xlsx"
+    },
+    {
+      "id": "excel_045",
+      "dosya": "2026-2027dkab6_TYMM.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027dkab6_TYMM.xlsx"
+    },
+    {
+      "id": "excel_046",
+      "dosya": "2026-2027dkab7_TYMM.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027dkab7_TYMM.xlsx"
+    },
+    {
+      "id": "excel_047",
+      "dosya": "2026-2027dkab8.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027dkab8.xlsx"
+    },
+    {
+      "id": "excel_048",
+      "dosya": "2026-2027dkab9_TYMM.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027dkab9_TYMM.xlsx"
+    },
+    {
+      "id": "excel_049",
+      "dosya": "2026-2027kuran10_TYMM.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027kuran10_TYMM.xlsx"
+    },
+    {
+      "id": "excel_050",
+      "dosya": "2026-2027kuran11_TYMM.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027kuran11_TYMM.xlsx"
+    },
+    {
+      "id": "excel_051",
+      "dosya": "2026-2027kuran12.xlsx",
+      "sayfalar": [
+        "KK 12"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027kuran12.xlsx"
+    },
+    {
+      "id": "excel_052",
+      "dosya": "2026-2027kuran5_TYMM (1).xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027kuran5_TYMM%20%281%29.xlsx"
+    },
+    {
+      "id": "excel_053",
+      "dosya": "2026-2027kuran5_TYMM.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027kuran5_TYMM.xlsx"
+    },
+    {
+      "id": "excel_054",
+      "dosya": "2026-2027kuran6_TYMM.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027kuran6_TYMM.xlsx"
+    },
+    {
+      "id": "excel_055",
+      "dosya": "2026-2027kuran7_TYMM.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027kuran7_TYMM.xlsx"
+    },
+    {
+      "id": "excel_056",
+      "dosya": "2026-2027kuran8.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027kuran8.xlsx"
+    },
+    {
+      "id": "excel_057",
+      "dosya": "2026-2027kuran9_TYMM.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027kuran9_TYMM.xlsx"
+    },
+    {
+      "id": "excel_058",
+      "dosya": "2026-2027peygamberimizinhayati10_TYMM.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027peygamberimizinhayati10_TYMM.xlsx"
+    },
+    {
+      "id": "excel_059",
+      "dosya": "2026-2027peygamberimizinhayati11_TYMM.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027peygamberimizinhayati11_TYMM.xlsx"
+    },
+    {
+      "id": "excel_060",
+      "dosya": "2026-2027peygamberimizinhayati12.xlsx",
+      "sayfalar": [
+        "ESKİ PROGRAM"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027peygamberimizinhayati12.xlsx"
+    },
+    {
+      "id": "excel_061",
+      "dosya": "2026-2027peygamberimizinhayati5_TYMM.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027peygamberimizinhayati5_TYMM.xlsx"
+    },
+    {
+      "id": "excel_062",
+      "dosya": "2026-2027peygamberimizinhayati6_TYMM.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027peygamberimizinhayati6_TYMM.xlsx"
+    },
+    {
+      "id": "excel_063",
+      "dosya": "2026-2027peygamberimizinhayati7_TYMM.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027peygamberimizinhayati7_TYMM.xlsx"
+    },
+    {
+      "id": "excel_064",
+      "dosya": "2026-2027peygamberimizinhayati8.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027peygamberimizinhayati8.xlsx"
+    },
+    {
+      "id": "excel_065",
+      "dosya": "2026-2027peygamberimizinhayati9_TYMM.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027peygamberimizinhayati9_TYMM.xlsx"
+    },
+    {
+      "id": "excel_066",
+      "dosya": "2026-2027temeldinibilgiler_ortaogretim2.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027temeldinibilgiler_ortaogretim2.xlsx"
+    },
+    {
+      "id": "excel_067",
+      "dosya": "2026-2027temeldinibilgiler_ortaokul1_TYMM.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027temeldinibilgiler_ortaokul1_TYMM.xlsx"
+    },
+    {
+      "id": "excel_068",
+      "dosya": "2026-2027temeldinibilgiler_ortaokul2.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027temeldinibilgiler_ortaokul2.xlsx"
+    },
+    {
+      "id": "excel_069",
+      "dosya": "2026-2027temeldinibilgiler_ortaoogretim1_TYMM.xlsx",
+      "sayfalar": [
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/2026-2027temeldinibilgiler_ortaoogretim1_TYMM.xlsx"
+    },
+    {
+      "id": "excel_070",
+      "dosya": "beden eğitimi ve spor dersi yp.xlsx",
+      "sayfalar": [
+        "HAZIRLIK SINIFI",
+        "9. SINIF ",
+        "10. SINIF",
+        "11. SINIF",
+        "12. SINIF"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/beden%20e%C4%9Fitimi%20ve%20spor%20dersi%20yp.xlsx"
+    },
+    {
+      "id": "excel_071",
+      "dosya": "BEDEN EĞİTİMİ VE OYUN (1-4. SINIF) TASLAK ÇERÇEVE YILLIK PLAN.xlsx",
+      "sayfalar": [
+        "1. Sınıf",
+        "2. Sınıf",
+        "3.Sınıf",
+        "4.Sınıf",
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/BEDEN%20E%C4%9E%C4%B0T%C4%B0M%C4%B0%20VE%20OYUN%20%281-4.%20SINIF%29%20TASLAK%20%C3%87ER%C3%87EVE%20YILLIK%20PLAN.xlsx"
+    },
+    {
+      "id": "excel_072",
+      "dosya": "BEDEN EĞİTİMİ VE SPOR (5-8. SINIF) TASLAK ÇERÇEVE YILLIK PLAN +++.xlsx",
+      "sayfalar": [
+        "5.Sınıf",
+        "6.Sınıf",
+        "7. SINIF",
+        "8. SINIF"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/BEDEN%20E%C4%9E%C4%B0T%C4%B0M%C4%B0%20VE%20SPOR%20%285-8.%20SINIF%29%20TASLAK%20%C3%87ER%C3%87EVE%20YILLIK%20PLAN%20%2B%2B%2B.xlsx"
+    },
+    {
+      "id": "excel_073",
+      "dosya": "BİLİŞİM TEKNOLOJİLERİ  (5-6. SINIF) TASLAK ÇERÇEVE YILLIK PLANI  +++.xlsx",
+      "sayfalar": [
+        "BTY_5",
+        "BTY_6",
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/B%C4%B0L%C4%B0%C5%9E%C4%B0M%20TEKNOLOJ%C4%B0LER%C4%B0%20%20%285-6.%20SINIF%29%20TASLAK%20%C3%87ER%C3%87EVE%20YILLIK%20PLANI%20%20%2B%2B%2B.xlsx"
+    },
+    {
+      "id": "excel_074",
+      "dosya": "BİYOLOJİ 2026-2027 ANADOLU LİSESİ 9,10,11, 12. SINIF TASLAK YILLIK PLAN.xlsx",
+      "sayfalar": [
+        "9. SINIF",
+        "10. SINIF",
+        "11. SINIF",
+        "12. SINIF"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/B%C4%B0YOLOJ%C4%B0%202026-2027%20ANADOLU%20L%C4%B0SES%C4%B0%209%2C10%2C11%2C%2012.%20SINIF%20TASLAK%20YILLIK%20PLAN.xlsx"
+    },
+    {
+      "id": "excel_075",
+      "dosya": "BİYOLOJİ 2026-2027 FEN LİSESİ 9,10,11, 12. SINIF TASLAK YILLIK PLAN.xlsx",
+      "sayfalar": [
+        "9. SINIF",
+        "10. SINIF",
+        "11. SINIF",
+        "12. SINIF"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/B%C4%B0YOLOJ%C4%B0%202026-2027%20FEN%20L%C4%B0SES%C4%B0%209%2C10%2C11%2C%2012.%20SINIF%20TASLAK%20YILLIK%20PLAN.xlsx"
+    },
+    {
+      "id": "excel_076",
+      "dosya": "FEN BİLİMLERİ  (3-8. SINIFLAR) TASLAK ÇERÇEVE YILLIK PLAN+++.xlsx",
+      "sayfalar": [
+        "FEN BİLİMLERİ 3 (TYMM)",
+        "FEN BİLİMLERİ 4",
+        "FEN BİLİMLERİ 5 (TYMM)",
+        "FEN BİLİMLERİ 6 (TYMM)",
+        "FEN BİLİMLERİ 7 (TYMM)",
+        "FEN BİLİMLERİ 8"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/FEN%20B%C4%B0L%C4%B0MLER%C4%B0%20%20%283-8.%20SINIFLAR%29%20TASLAK%20%C3%87ER%C3%87EVE%20YILLIK%20PLAN%2B%2B%2B.xlsx"
+    },
+    {
+      "id": "excel_077",
+      "dosya": "HAYAT_BILGISI_(1-3._SINIFLAR)_ TASLAK ÇERÇEVE YILLIK PLAN.xlsx",
+      "sayfalar": [
+        "1. sınıf",
+        "2. sınıf",
+        "3. sınıf",
+        "Sayfa1"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/HAYAT_BILGISI_%281-3._SINIFLAR%29_%20TASLAK%20%C3%87ER%C3%87EVE%20YILLIK%20PLAN.xlsx"
+    },
+    {
+      "id": "excel_078",
+      "dosya": "İNGİLİZCE (2-8. SINIF) TASLAK YILLIK ÇERÇEVE PLAN.xlsx",
+      "sayfalar": [
+        "TYMM 2",
+        "TYMM 3",
+        "4.Sınıf",
+        "TYMM 5",
+        "TYMM 6",
+        "7. Sınıf ",
+        "8. Sınıf"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/%C4%B0NG%C4%B0L%C4%B0ZCE%20%282-8.%20SINIF%29%20TASLAK%20YILLIK%20%C3%87ER%C3%87EVE%20PLAN.xlsx"
+    },
+    {
+      "id": "excel_079",
+      "dosya": "İNGİLİZCE - 2026-2027 HAZIRLIK SINIFI BULUNAN LİSELER TASLAK YILLIK PLAN.xlsx",
+      "sayfalar": [
+        "HAZIRLIK HAZIRLIK",
+        "9.SINIF",
+        "10.SINIF",
+        "11.SINIF",
+        "12.SINIF"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/%C4%B0NG%C4%B0L%C4%B0ZCE%20-%202026-2027%20HAZIRLIK%20SINIFI%20BULUNAN%20L%C4%B0SELER%20TASLAK%20YILLIK%20PLAN.xlsx"
+    },
+    {
+      "id": "excel_080",
+      "dosya": "İNGİLİZCE - 2026-2027 HAZIRLIK SINIFI BULUNMAYAN LİSESİ 9,10,11, 12. SINIF TASLAK YILLIK PLAN.xlsx",
+      "sayfalar": [
+        "9. SINIF",
+        "10. SINIF",
+        "11. SINIF",
+        "12. SINIF"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/%C4%B0NG%C4%B0L%C4%B0ZCE%20-%202026-2027%20HAZIRLIK%20SINIFI%20BULUNMAYAN%20L%C4%B0SES%C4%B0%209%2C10%2C11%2C%2012.%20SINIF%20TASLAK%20YILLIK%20PLAN.xlsx"
+    },
+    {
+      "id": "excel_081",
+      "dosya": "İNSAN HAKLARI, VATANDAŞLIK  VE DEMOKRASİ (4. SINIF) TASLAK ÇERÇEVE YILLIK PLAN.xlsx",
+      "sayfalar": [
+        "4.SINIF İHVD"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/%C4%B0NSAN%20HAKLARI%2C%20VATANDA%C5%9ELIK%20%20VE%20DEMOKRAS%C4%B0%20%284.%20SINIF%29%20TASLAK%20%C3%87ER%C3%87EVE%20YILLIK%20PLAN.xlsx"
+    },
+    {
+      "id": "excel_082",
+      "dosya": "MATEMATİK (1-4. SINIF)  TASLAK ÇERÇEVE YILLIK PLAN.xlsx",
+      "sayfalar": [
+        "1. Sınıf",
+        "2.Sınıf",
+        "3.Sınıf",
+        "4.Sınıf"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/MATEMAT%C4%B0K%20%281-4.%20SINIF%29%20%20TASLAK%20%C3%87ER%C3%87EVE%20YILLIK%20PLAN.xlsx"
+    },
+    {
+      "id": "excel_083",
+      "dosya": "MATEMATİK (5-8. SINIF) TASLAK ÇERÇEVE YILLIK PLAN+++.xlsx",
+      "sayfalar": [
+        "5.Sınıf",
+        "6.Sınıf",
+        "7.Sınıf",
+        "8.Sınıf"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/MATEMAT%C4%B0K%20%285-8.%20SINIF%29%20TASLAK%20%C3%87ER%C3%87EVE%20YILLIK%20PLAN%2B%2B%2B.xlsx"
+    },
+    {
+      "id": "excel_084",
+      "dosya": "MÜZİK (1-8. SINIF) TASLAK YILLIK ÇERÇEVE  PLAN.xlsx",
+      "sayfalar": [
+        "MÜZİK-1 (TYMM)",
+        "MÜZİK-2 (TYMM)",
+        "MÜZİK-3",
+        "MÜZİK-4",
+        "MÜZİK-5 (TYMM)",
+        "MÜZİK-6 (TYMM)",
+        "MÜZİK-7",
+        "MÜZİK-8"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/M%C3%9CZ%C4%B0K%20%281-8.%20SINIF%29%20TASLAK%20YILLIK%20%C3%87ER%C3%87EVE%20%20PLAN.xlsx"
+    },
+    {
+      "id": "excel_085",
+      "dosya": "SOSYAL BİLGİLER (4-7. SINIFLAR) TASLAK ÇERÇEVE YILLIK PLAN +++.xlsx",
+      "sayfalar": [
+        "4. SINIF YILLIK PLAN",
+        "5. SINIF YILLIK PLAN",
+        "6. SINIF YILLIK PLAN",
+        "7. SINIF YILLIK PLAN"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/SOSYAL%20B%C4%B0LG%C4%B0LER%20%284-7.%20SINIFLAR%29%20TASLAK%20%C3%87ER%C3%87EVE%20YILLIK%20PLAN%20%2B%2B%2B.xlsx"
+    },
+    {
+      "id": "excel_086",
+      "dosya": "T. C. INKILAP TARİHİ VE ATATÜRKÇÜLÜK (8. SINIF)  TASLAK ÇERÇEVE YILLIK PLAN +++.xlsx",
+      "sayfalar": [
+        "8. SINIF YILLIK PLAN"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/T.%20C.%20INKILAP%20TAR%C4%B0H%C4%B0%20VE%20ATAT%C3%9CRK%C3%87%C3%9CL%C3%9CK%20%288.%20SINIF%29%20%20TASLAK%20%C3%87ER%C3%87EVE%20YILLIK%20PLAN%20%2B%2B%2B.xlsx"
+    },
+    {
+      "id": "excel_087",
+      "dosya": "TEKNOLOJİ VE TASARIM (7-8. SINIF)  TASLAK ÇERÇEVE YILLIK PLAN.xlsx",
+      "sayfalar": [
+        "TEK-TAS 7",
+        "TEK-TAS 8"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/TEKNOLOJ%C4%B0%20VE%20TASARIM%20%287-8.%20SINIF%29%20%20TASLAK%20%C3%87ER%C3%87EVE%20YILLIK%20PLAN.xlsx"
+    },
+    {
+      "id": "excel_088",
+      "dosya": "TURKÇE_(1-4._SINIFLAR)_ TASLAK ÇERÇEVE  YILLIK_PLAN.xlsx",
+      "sayfalar": [
+        "Türkçe1_TYMM",
+        "Türkçe2_TYMM",
+        "Türkçe3_TYMM",
+        "Türkçe4_2019 (MEB Yayınları)"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/TURK%C3%87E_%281-4._SINIFLAR%29_%20TASLAK%20%C3%87ER%C3%87EVE%20%20YILLIK_PLAN.xlsx"
+    },
+    {
+      "id": "excel_089",
+      "dosya": "TURKÇE_4. Sınıf ADA Yayınları Ders Kitabı YIllık Planı (2019 Programı).xlsx",
+      "sayfalar": [
+        "Türkçe4_2019 Prog. ADA Yay."
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/TURK%C3%87E_4.%20S%C4%B1n%C4%B1f%20ADA%20Yay%C4%B1nlar%C4%B1%20Ders%20Kitab%C4%B1%20YIll%C4%B1k%20Plan%C4%B1%20%282019%20Program%C4%B1%29.xlsx"
+    },
+    {
+      "id": "excel_090",
+      "dosya": "TÜRKÇE (5-8. SINIFLAR) TASLAK ÇERÇEVE YILLIK PLAN+++.xlsx",
+      "sayfalar": [
+        "TÜRKÇE 5 ÇERÇEVE YILLIK PLANLAR",
+        "6. SINIF ÇERÇEVE YILLIK PLA (3)",
+        "7. SINIF ÇERÇEVE YILLIK PLAN",
+        "Türkçe 8. SINIF MEB YILLIK PLAN"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/T%C3%9CRK%C3%87E%20%285-8.%20SINIFLAR%29%20TASLAK%20%C3%87ER%C3%87EVE%20YILLIK%20PLAN%2B%2B%2B.xlsx"
+    },
+    {
+      "id": "excel_091",
+      "dosya": "ÇOKLU  YABANCI DİL İNGİLİZCE (5-8. SINIF) TASLAK ÇERÇEVE YILLIK PLAN.xlsx",
+      "sayfalar": [
+        "ÇYDEM 5",
+        "ÇYDEM 6",
+        "ÇYDEM 7 ",
+        "ÇYDEM 8"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/%C3%87OKLU%20%20YABANCI%20D%C4%B0L%20%C4%B0NG%C4%B0L%C4%B0ZCE%20%285-8.%20SINIF%29%20TASLAK%20%C3%87ER%C3%87EVE%20YILLIK%20PLAN.xlsx"
+    },
+    {
+      "id": "excel_092",
+      "dosya": "ÇOKLU YABANCI DİL ALMANCA  (5-8. SINIF)TASLAK ÇERÇEVE  YILLIK PLAN.xlsx",
+      "sayfalar": [
+        "5.Sınıf",
+        "6.Sınıf (yeni)",
+        "7.Sınıf (yeni)",
+        "8.Sınıf (yeni)"
+      ],
+      "indir_url": "https://raw.githubusercontent.com/cezbilisim-png/ogretmen-excel/main/2026_2027/%C3%87OKLU%20YABANCI%20D%C4%B0L%20ALMANCA%20%20%285-8.%20SINIF%29TASLAK%20%C3%87ER%C3%87EVE%20%20YILLIK%20PLAN.xlsx"
+    }
+  ]
+}
